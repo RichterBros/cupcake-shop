@@ -1,0 +1,14 @@
+.flashy {
+    color: red;
+    font-style: italic;
+}
+
+.best {
+    color: purple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
